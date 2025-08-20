@@ -256,7 +256,3 @@ The test suite uses **pytest** with comprehensive coverage including:
 - Regular dependency updates for security
 - Risk model validation and backtesting
 - Compliance with regulatory changes
-
-## License
-
-This project is for educational and professional use. Ensure compliance with your organization's policies and regulatory requirements.
